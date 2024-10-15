@@ -1,4 +1,4 @@
-# Oii! Eu sou a Tainara Morais, seja bem-vindo ao meu GitHub! 👋
+# Oii! Eu sou a Tainara (Lalinha), seja bem-vindo ao meu GitHub! 👋
 
 - 🎓 Cursando **Sistemas de Informação** no último período na **Universidade Federal de Ouro Preto (UFOP)**.
 - 🛠️ Técnica em **Desenvolvimento de Sistemas** pelo **COLTEC-UFMG**.
